@@ -1,0 +1,1 @@
+Examples of how use functions in Python

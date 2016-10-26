@@ -1,0 +1,1 @@
+Examples of how use functions at different paths in Python
